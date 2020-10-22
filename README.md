@@ -1,4 +1,4 @@
-# WiTrack project - Backend 
+# Backend project
 with JWT Authentication & Authorization, JSONWebToken & Sequelize
 
 ## MariaDB setup:
@@ -55,4 +55,4 @@ node server.js
 - Project based on https://bezkoder.com/node-js-jwt-authentication-mysql/
 - Other endpoints using myslq: https://bezkoder.com/node-js-rest-api-express-mysql/
 
-### 2020 By Isaac Lera and Carlos Guerrero
+#### By Isaac Lera
